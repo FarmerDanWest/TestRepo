@@ -9,7 +9,7 @@ Get-AzureRmSubscription
 
 #then select the subscription you would like to work with
 
-Select-AzureRmSubscription -SubscriptionId 
+Select-AzureRmSubscription -SubscriptionId "SubID"
 
 #then find the storage acct you want to use as default
 
